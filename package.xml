@@ -17,8 +17,7 @@
         <members>Contract</members>		
         <members>User</members>		
         <members>Pricebook2</members>		
-        <members>Campaign</members>		
-        <members>Quote</members>				
+        <members>Campaign</members>						
         <name>CustomObject</name>
     </types>	
     <version>31.0</version>

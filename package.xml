@@ -13,11 +13,13 @@
         <members>OpportunityAward__c</members>
         <members>Post_Award_Contact__c</members>
         <members>Post_Award__c</members>
+        <members>Opportunity</members>		
+        <members>Contract</members>		
+        <members>User</members>		
+        <members>Pricebook2</members>		
+        <members>Campaign</members>		
+        <members>Quote</members>				
         <name>CustomObject</name>
-    </types>
-	<types>
-	  <members>Opportunity.Agency__c</members>
-	  <name>CustomField</name>
-	</types>	
+    </types>	
     <version>31.0</version>
 </Package>

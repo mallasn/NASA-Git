@@ -22,11 +22,7 @@
         <members>AwardPAAssociation__c</members>
         <members>Awards__c</members>
         <members>Contact</members>
-        <members>Opportunity</members>
         <members>OpportunityAward__c</members>
-        <members>OpportunityCompetitor</members>
-        <members>OpportunityContactRole</members>
-        <members>OpportunityLineItem</members>
         <members>Post_Award_Contact__c</members>
         <members>Post_Award__c</members>
         <name>CustomObject</name>

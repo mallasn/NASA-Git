@@ -472,12 +472,6 @@
         <type>Picklist</type>
     </fields>
     <fields>
-        <fullName>SyncedQuoteId</fullName>
-        <trackFeedHistory>false</trackFeedHistory>
-        <trackTrending>false</trackTrending>
-        <type>Lookup</type>
-    </fields>
-    <fields>
         <fullName>TA__c</fullName>
         <externalId>false</externalId>
         <formula>Related_Award__r.Technology_Area__c</formula>

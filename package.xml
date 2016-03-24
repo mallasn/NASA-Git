@@ -5,18 +5,6 @@
         <name>ApexClass</name>
     </types>
     <types>
-        <members>*</members>
-        <name>ApexComponent</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>ApexPage</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>ApexTrigger</name>
-    </types>
-    <types>
         <members>Account</members>
         <members>AwardContacts__c</members>
         <members>AwardPAAssociation__c</members>
@@ -25,12 +13,11 @@
         <members>OpportunityAward__c</members>
         <members>Post_Award_Contact__c</members>
         <members>Post_Award__c</members>
-        <members>Opportunity</members>		
         <name>CustomObject</name>
     </types>
-    <types>
-        <members>*</members>
-        <name>StaticResource</name>
-    </types>
+	<types>
+	  <members>Opportunity.Agency__c</members>
+	  <name>CustomField</name>
+	</types>	
     <version>31.0</version>
 </Package>

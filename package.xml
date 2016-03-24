@@ -25,6 +25,7 @@
         <members>OpportunityAward__c</members>
         <members>Post_Award_Contact__c</members>
         <members>Post_Award__c</members>
+        <members>Opportunity</members>		
         <name>CustomObject</name>
     </types>
     <types>

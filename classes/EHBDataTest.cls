@@ -61,7 +61,7 @@ private class EHBDataTest {
                 cont.firstName = 'AAA';
                 cont.lastName = 'AAA';
                 cont.phone  = '888-888-9999';
-                cont.email  = 'aaaa@email.com';
+                cont.email  = 'bbbb@email.com';
                 cont.id = '';
                 cont.sfId = '';
                 f.contacts.add(cont);
